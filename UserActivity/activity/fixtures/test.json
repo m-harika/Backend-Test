@@ -1,0 +1,74 @@
+[
+  {
+    "model": "activity.Member",
+    "pk": 1,
+    "fields": {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles"
+    }
+  },
+  {
+    "model": "activity.ActivityPeriod",
+    "pk": 1,
+    "fields": {
+      "member_id": "W012A3CDE",
+      "start_time": "Feb 1 2020  1:33PM",
+      "end_time": "Feb 1 2020 1:54PM"
+    }
+  },
+  {
+    "model": "activity.ActivityPeriod",
+    "pk": 2,
+    "fields": {
+      "member_id": "W012A3CDE",
+      "start_time": "Mar 1 2020  11:11AM",
+      "end_time": "Mar 1 2020 2:00PM"
+    }
+  },
+  {
+    "model": "activity.ActivityPeriod",
+    "pk": 3,
+    "fields": {
+      "member_id": "W012A3CDE",
+      "start_time": "Mar 16 2020  5:33PM",
+      "end_time": "Mar 16 2020 8:02PM"
+    }
+  },
+  {
+    "model": "activity.Member",
+    "pk": 2,
+    "fields": {
+      "id": "W07QCRPA4",
+      "real_name": "Glinda Southgood"",
+      "tz": "Asia/Kolkata"
+    }
+  },
+  {
+    "model": "activity.ActivityPeriod",
+    "pk": 4,
+    "fields": {
+      "member_id": "W07QCRPA4",
+      "start_time": "Feb 1 2020  1:33PM",
+      "end_time": "Feb 1 2020 1:54PM"
+    }
+  },
+  {
+    "model": "activity.ActivityPeriod",
+    "pk": 5,
+    "fields": {
+      "member_id": "W07QCRPA4",
+      "start_time": "Feb 1 2020  1:33PM",
+      "end_time": "Feb 1 2020 1:54PM"
+    }
+  },
+  {
+    "model": "activity.ActivityPeriod",
+    "pk": 6,
+    "fields": {
+      "member_id": "W07QCRPA4",
+      "start_time": "Feb 1 2020  1:33PM",
+      "end_time": "Feb 1 2020 1:54PM"
+    }
+  }
+]
